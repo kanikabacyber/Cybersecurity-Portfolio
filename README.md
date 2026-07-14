@@ -69,7 +69,6 @@ This repository will include:
 - 🔹 Python Security Scripts
 - 🔹 PowerShell Automation
 - 🔹 Network Security Projects
-- 🔹 CTF Write-ups
 
 ---
 
