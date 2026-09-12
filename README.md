@@ -60,9 +60,8 @@ My goal is to continue growing as a SOC Analyst by improving my skills in threat
 
 This repository will include:
 
-- 🔹 Splunk SIEM Labs
-- 🔹 Incident Response Case Studies
-- 🔹 Threat Hunting Exercises
+- 🔹 Cybersecurity SIEM Implementation 
+- 🔹 Threat Hunting Exercises & Incident Response 
 - 🔹 Nessus Vulnerability Assessments
 - 🔹 Wireshark Packet Analysis
 - 🔹 Active Directory Labs
