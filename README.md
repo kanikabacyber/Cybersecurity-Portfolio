@@ -61,13 +61,7 @@ My goal is to continue growing as a SOC Analyst by improving my skills in threat
 This repository will include:
 
 - 🔹 <a href="https://github.com/kanikabacyber/Cybersecurity-SIEM-Implementation"> Cybersecurity SIEM Implementation</a>
-- 🔹 Threat Hunting Exercises & Incident Response 
-- 🔹 Nessus Vulnerability Assessments
-- 🔹 Wireshark Packet Analysis
-- 🔹 Active Directory Labs
-- 🔹 Python Security Scripts
-- 🔹 PowerShell Automation
-- 🔹 Network Security Projects
+- 🔹 <a href="https://github.com/kanikabacyber/Threat Hunting & Incident Response"> Threat Hunting & Incident Response</a>
 
 ---
 
