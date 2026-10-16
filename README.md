@@ -14,14 +14,13 @@ My goal is to continue growing as a SOC Analyst by improving my skills in threat
 
 ## 🛡️ Certifications
 
-- CompTIA CySA+
-- CompTIA Security+
-- CompTIA Network+
-- Splunk Core Certified
-- Security Analyst Level 1 (SAL1)
-- Cisco Cybersecurity Essentials
-- Cisco Linux Essentials
-- Cisco Networking Essentials
+
+<div>
+<img src="https://img.shields.io/badge/-CompTIA_CySA%2B-C8202F?&style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA_Network%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk_Core_Certified_User-65A637?style=for-the-badge&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security_Analyst_Level_1_(SAL1)-8B4513?style=for-the-badge&logo=shield&logoColor=white" />
 
 ---
 
